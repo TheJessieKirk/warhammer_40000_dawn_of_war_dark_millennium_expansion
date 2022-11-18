@@ -1,0 +1,12 @@
+[global]
+
+UIName = Dark Millennium
+Description = Jessie Kirk's Dawn of War mod.
+DllName = W40kMod
+ModFolder = jxp_dm_dw
+ModVersion = 0.1.0
+
+DataFolder.1 = data
+ArchiveFile.1 = jxp_sc_dw
+
+RequiredMod.1 = W40k
